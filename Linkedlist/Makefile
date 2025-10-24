@@ -7,7 +7,7 @@ CC = gcc
 
 .PHONY = clear
 
-hidden = @
+hidden = @ 
 
 all:res
 
